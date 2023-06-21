@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trello_drag_and_drop/static/css/main.f2ba2b43.css",
+    "main.js": "/trello_drag_and_drop/static/js/main.e3fc196b.js",
+    "index.html": "/trello_drag_and_drop/index.html",
+    "main.f2ba2b43.css.map": "/trello_drag_and_drop/static/css/main.f2ba2b43.css.map",
+    "main.e3fc196b.js.map": "/trello_drag_and_drop/static/js/main.e3fc196b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ba2b43.css",
+    "static/js/main.e3fc196b.js"
+  ]
+}
